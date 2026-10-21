@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "description": "EcoDiwali: a premium virtual Diwali celebration.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "ayan-0708.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "ayan-0708.github",
+  "start_url": "/",
+  "theme_color": "#080b18"
+}
